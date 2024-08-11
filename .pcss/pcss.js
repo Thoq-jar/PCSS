@@ -14,6 +14,6 @@ async function injectBCSS(url) {
     }
 }
 
-const cssURL = 'https://raw.githubusercontent.com/Thoq-jar/PCSS/master/.pcss/pcss.css?token=GHSAT0AAAAAACV7HKLY4NBUXGHPA22CHPUGZVZATYA';
+const cssURL = 'https://raw.githubusercontent.com/Thoq-jar/PCSS/master/.pcss/pcss.min.css';
 
 injectBCSS(cssURL).then(_ => {});
