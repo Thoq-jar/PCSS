@@ -17,3 +17,7 @@
 .pcss-justify-center {
 	justify-content: center;
 }
+
+.pcss-font-system {
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
