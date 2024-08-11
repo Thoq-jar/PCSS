@@ -21,3 +21,63 @@
 .pcss-font-system {
 	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
+
+.pcss-justify-left {
+	justify-content: left;
+}
+
+.pcss-justify-right {
+	justify-content: right;
+}
+
+.pcss-justify-space-between {
+	justify-content: space-between;
+}
+
+.pcss-justify-space-around {
+	justify-content: space-around;
+}
+
+.pcss-justify-space-evenly {
+	justify-content: space-evenly;
+}
+
+.pcss-justify-stretch {
+	justify-content: stretch;
+}
+
+.pcss-justify-start {
+	justify-content: flex-start;
+}
+
+.pcss-justify-end {
+	justify-content: flex-end;
+}
+
+.pcss-align-center {
+	align-items: center;
+}
+
+.pcss-left-column {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.pcss-left-row {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+}
+
+.pcss-right-column {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+
+.pcss-right-row {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+}
