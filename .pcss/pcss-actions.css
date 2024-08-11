@@ -1,19 +1,19 @@
-.center-column {
+.pcss-center-column {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
 
-.center-row {
+.pcss-center-row {
 	display: flex;
 	flex-direction: row;
 	align-items: center;
 }
 
-.center-text {
+.pcss-center-text {
 	text-align: center;
 }
 
-.justify-center {
+.pcss-justify-center {
 	justify-content: center;
 }
