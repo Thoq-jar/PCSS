@@ -1,5 +1,3 @@
-@import './bcss-colors.css';
-
 .center-column {
 	display: flex;
 	flex-direction: column;
